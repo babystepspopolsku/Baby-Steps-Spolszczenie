@@ -3,7 +3,7 @@ Modyfikacja do gry Baby Steps wprowadzająca - Polskie tłumaczenie kinowe wraz 
 ---
 
 <p align="center">
-  <img  src="https://github.com/caleborchard/Baby-Steps-Multiplayer-Mod-Client/blob/main/bbs_mm_blank.png?raw=true" 
+  <img  src="https://github.com/babystepspopolsku/Baby-Steps-Spolszczenie/blob/main/Image.png?raw=true" 
 </p>
   
 ---
