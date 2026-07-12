@@ -17,8 +17,8 @@
   <img src="https://github.com/babystepspopolsku/Baby-Steps-Spolszczenie/blob/main/screenshoty/F38FFCD9-0A97-4040-88A0-A82BED19E455.png?raw=true" width="30%"/>
 </p>
 <p align="center">
-  <img src="https://github.com/babystepspopolsku/Baby-Steps-Spolszczenie/blob/main/screenshoty/D4AEFAA2-4204-4CA8-8CC0-70EFA9AEEC5B.png?raw=true" width="30%"/>
   <img src="https://github.com/babystepspopolsku/Baby-Steps-Spolszczenie/blob/main/screenshoty/C85526DE-AB6F-435D-8213-564CBF6B8196.png?raw=true" width="30%"/>
+  <img src="https://github.com/babystepspopolsku/Baby-Steps-Spolszczenie/blob/main/screenshoty/D4AEFAA2-4204-4CA8-8CC0-70EFA9AEEC5B.png?raw=true" width="30%"/> 
   <img src="https://github.com/babystepspopolsku/Baby-Steps-Spolszczenie/blob/main/screenshoty/A397006D-75E7-4F4D-8E26-1B18D437C7BF.png?raw=true" width="30%"/>
 </p>
 
