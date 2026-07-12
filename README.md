@@ -1,8 +1,8 @@
 # Baby-Steps-Spolszczenie
 Modyfikacja do gry Baby Steps wprowadzająca - Polskie tłumaczenie kinowe wraz Polskimi teksturami
 
-
-![image alt] (https://github.com/babystepspopolsku/Baby-Steps-Spolszczenie/blob/main/Image.png?raw=true)
+<p align="center">
+  <img
 ---
 Instalacja:
 ---
